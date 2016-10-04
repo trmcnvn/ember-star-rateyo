@@ -1,11 +1,11 @@
-# Ember-rateyo
+# ember-star-rating
 
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd ember-rateyo`
+* `cd ember-star-rating`
 * `npm install`
 * `bower install`
 
