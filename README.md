@@ -43,4 +43,4 @@ To see what options are available consult the [RateYo! Docs](http://rateyo.fundo
 
 ### License
 
-[MIT](https://github.com/vevix/ember-star-rating/blob/master/README.md)
+[MIT](https://github.com/vevix/ember-star-rating/blob/master/LICENSE.md)
