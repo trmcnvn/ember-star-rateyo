@@ -1,6 +1,6 @@
 {
   "name": "ember-star-rating",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "An Emberjs component for star ratings using RateYo!",
   "directories": {
     "doc": "doc",

@@ -23,7 +23,7 @@ const StarRatingComponent = Component.extend({
     run.scheduleOnce('afterRender', () => {
       const options = get(this, 'options') || {};
       const reference = this.$().rateYo(options);
-      reference.rateYo('rating', get(this, 'rating'));
+      reference.rateYo('rating', get(this, 'rating') || 0);
 
       reference.on('rateyo.set', (e, data) => {
         const onSet = get(this, 'onSet');
