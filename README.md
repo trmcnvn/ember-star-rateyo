@@ -1,6 +1,6 @@
-# ember-star-rateyou
+# ember-star-rateyo
 
-[![npm version](https://badge.fury.io/js/ember-star-rateuo.svg)](http://badge.fury.io/js/ember-star-rateyo)
+[![npm version](https://badge.fury.io/js/ember-star-rateyo.svg)](http://badge.fury.io/js/ember-star-rateyo)
 [![Build Status](https://travis-ci.org/vevix/ember-star-rateyo.svg?branch=master)](https://travis-ci.org/vevix/ember-star-rateyo)
 
 An [ember.js](http://www.emberjs.com) component for star ratings using RateYo!
