@@ -1,7 +1,7 @@
-# ember-star-rating
+# ember-star-rateyou
 
-[![npm version](https://badge.fury.io/js/ember-star-rating.svg)](http://badge.fury.io/js/ember-star-rating)
-[![Build Status](https://travis-ci.org/vevix/ember-star-rating.svg?branch=master)](https://travis-ci.org/vevix/ember-star-rating)
+[![npm version](https://badge.fury.io/js/ember-star-rateuo.svg)](http://badge.fury.io/js/ember-star-rateyo)
+[![Build Status](https://travis-ci.org/vevix/ember-star-rateyo.svg?branch=master)](https://travis-ci.org/vevix/ember-star-rateyo)
 
 An [ember.js](http://www.emberjs.com) component for star ratings using RateYo!
 
@@ -43,4 +43,4 @@ To see what options are available consult the [RateYo! Docs](http://rateyo.fundo
 
 ### License
 
-[MIT](https://github.com/vevix/ember-star-rating/blob/master/LICENSE.md)
+[MIT](https://github.com/vevix/ember-star-rateyo/blob/master/LICENSE.md)
