@@ -2,7 +2,7 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-star-rating',
+  name: 'ember-star-rateyo',
 
   included: function(app) {
     app.import(app.bowerDirectory + '/rateYo/src/jquery.rateyo.js');

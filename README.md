@@ -11,7 +11,7 @@ An [ember.js](http://www.emberjs.com) component for star ratings using RateYo!
 
 In your application's directory:
 ```bash
-$ ember install ember-star-rating
+$ ember install ember-star-rateyo
 ```
 
 ### Using the Add-on
